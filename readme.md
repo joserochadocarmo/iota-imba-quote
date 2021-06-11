@@ -5,7 +5,7 @@
 
 Send quotes to the tangle with IOTA lib and Imba.js.
 
-You can visit the [live version](https://iota-react.vercel.app/) here and send some messages to the tangle.
+You can visit the [live version](https://iota-imba-quote-40j4asfct-tomjrc.vercel.app/) here and send some messages to the tangle.
 
 This project was bootstrapped with [imba-base-template](https://github.com/imba/imba-base-template).
 
