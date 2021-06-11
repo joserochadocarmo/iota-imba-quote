@@ -1,5 +1,5 @@
 import express from 'express'
-import index from './index.html'
+import index from './app/index.html'
 import { SingleNodeClient, Converter,INDEXATION_PAYLOAD_TYPE,MAX_NUMBER_PARENTS } from "@iota/iota.js"
 
 const app = express!
