@@ -1,0 +1,20 @@
+{
+  "name": "iota-todo-imba",
+  "scripts": {
+    "start": "imba -w ./app/server.imba",
+    "build": "imba build ./app/server.imba"
+  },
+  "dependencies": {
+    "@iota/iota.js": "^1.5.3",
+    "express": "^4.17.1",
+    "imba": "^2.0.0-alpha.133"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.22"
+  },
+  "description": "",
+  "version": "1.0.0",
+  "homepage": "https://github.com//iota-todo-imba",
+  "author": "Author Name (https://github.com/)",
+  "license": "ISC"
+}
